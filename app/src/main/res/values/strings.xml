@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alarm App</string>
+    <string name="switch_to_dark">Switch to dark</string>
+    <string name="switch_to_light">Switch to light</string>
+    <string name="delete_question">Are you sure you want to delete item?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
